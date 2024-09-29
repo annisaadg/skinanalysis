@@ -5,3 +5,5 @@ opencv-python
 torchvision
 skin-tone-classifier
 deepface
+tf-keras
+# CC=clang CXX=clang++ ARCHFLAGS="-arch arm64" python -m pip install 'git+https://github.com/facebookresearch/detectron2.git'

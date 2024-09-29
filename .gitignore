@@ -1,0 +1,3 @@
+.venv/
+model/linknet.pth
+model/model_final.pth

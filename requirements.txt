@@ -1,0 +1,7 @@
+torch
+ultralytics
+flask
+opencv-python
+torchvision
+skin-tone-classifier
+deepface
